@@ -1,5 +1,5 @@
-# Ex.No: 10  Logic Programming –  Simple queries from facts and rules
-### DATE: 19/3/2024                                                                           
+5-# Ex.No: 10  Logic Programming –  Simple queries from facts and rules
+### DATE: 30/3/2024                                                                           
 ### REGISTER NUMBER : 212221060263
 ### AIM: 
 To write a prolog program to find the answer of query. 
